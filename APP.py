@@ -125,7 +125,7 @@ def predict_price(h1n1_worry,h1n1_awareness,antiviral_medication,contact_avoidan
     census_msa_2= census_msa_mapping(census_msa)
 
 
-    with open(r"C:\Users\ELCOT\Desktop\Srini\VS Code\Projects\Vaccine\Data\Classification_model.pkl","rb") as f:
+    with open("Classification_model.pkl","rb") as f:
         regg_model= pickle.load(f)
 
     user_data = np.array([[h1n1_worry,h1n1_awareness,antiviral_medication,contact_avoidance,bought_face_mask,wash_hands_frequently,
