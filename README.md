@@ -4,17 +4,17 @@
 
 **ABOUT THIS PROJECT**
 
-**1. DATA ENGINEERING:**
+_**1. DATA ENGINEERING:**_
 
-  1.Understand the complete dataset and Engineer it as per the needs.
+  Understand the complete dataset and Engineer it as per the needs.
   
-  2.Do Exploratory data analysis to get deeper understanding about the  attributes.
+  Do Exploratory data analysis to get deeper understanding about the  attributes.
 
-**2. DASHBOARD DEVELOPMENT:**
+_**2. DASHBOARD DEVELOPMENT:**_
 
   The Plotly or streamlit analytical Dashboard is expected to be developed that has at least 5 types  of dynamic charts and at least 3 data filtering options.
 
-**3. MODEL DEVELOPMENT:**
+_**3. MODEL DEVELOPMENT:**_
 
   Training a Logistic Regression model (or any suitable model)for prediction.
   
