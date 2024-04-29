@@ -5,6 +5,7 @@
 **ABOUT THIS PROJECT**
 
 **1. DATA ENGINEERING:**
+
   1.Understand the complete dataset and Engineer it as per the needs.
   
   2.Do Exploratory data analysis to get deeper understanding about the  attributes.
